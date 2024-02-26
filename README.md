@@ -43,7 +43,7 @@ Plotly Express
 Various models were evaluated for their performance in predicting heart attack risk, including Logistic Regression, Decision Trees, and Random Forests. Performance metrics such as accuracy, precision, recall, and AUC-ROC were used to compare model efficacy.
 
 ### 6. Insights & Recommendations:
-Our analysis revealed significant predictors of heart disease risk and model performance insights. Recommendations for healthcare interventions and future research directions are provided.
+The analysis provided insights into key factors influencing heart attack risk and the effectiveness of different modeling approaches. Recommendations for healthcare interventions and areas for future research are discussed.
 
 ### 7. Setup:
 Required Libraries:
